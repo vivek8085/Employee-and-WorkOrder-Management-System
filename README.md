@@ -1,5 +1,5 @@
 # JIEF Internship project
-# ---
+---
 # Factory ERP — Production & Work Order Management
 
 This repository contains a full-stack Factory ERP application for managing production and work orders. It includes a Node.js/Express backend with MongoDB and a Vite + React frontend. The system supports three user roles with different permissions: Admin, Manager, and Employee.
@@ -179,8 +179,3 @@ Frontend (in `frontend/`):
 
 
 ---
-
-If you want, I can also:
-- Add a sample `.env.example` file to the `backend/` folder.
-- Seed a default admin user or provide a script to create one.
-- Expand the README with API examples (curl/postman) or OpenAPI spec.
