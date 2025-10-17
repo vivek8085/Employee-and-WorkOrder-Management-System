@@ -1,6 +1,7 @@
 # JIEF Internship project
 ---
 [visit site](https://employee-and-workorder-management.onrender.com/)
+use credentials for Admin:admin@factory.com, Manager:manager@factory.com ,Employee: employee@factory.com , password:123456(for all).
 ---
 # Employee & Work Order Management
 
