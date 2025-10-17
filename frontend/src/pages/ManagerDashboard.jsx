@@ -16,7 +16,7 @@ import {
   Legend,
 } from "recharts";
 
-const API_BASE = "http://localhost:5000/api";
+const API_BASE = "https://employee-and-workorder-management-system.onrender.com/api";
 
 const ManagerDashboard = () => {
   const token = localStorage.getItem("token");
@@ -628,5 +628,6 @@ const ManagerDashboard = () => {
     </div>
   );
 };
+
 
 export default ManagerDashboard;
