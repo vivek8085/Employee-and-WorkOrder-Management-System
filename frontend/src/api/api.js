@@ -1,4 +1,4 @@
-export const API_BASE = "http://localhost:5000/api";
+export const API_BASE = "https://employee-and-workorder-management-system.onrender.com/api";
 
 export const getDepartments = async () => {
   const res = await fetch(`${API_BASE}/departments`);
@@ -32,3 +32,4 @@ export const updateWorkStatus = async (id, status) => {
   });
   return res.json();
 };
+
