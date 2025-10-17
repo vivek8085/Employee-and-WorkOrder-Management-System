@@ -1,8 +1,8 @@
 # JIEF Internship project
 ---
 [visit site](https://employee-and-workorder-management.onrender.com/)
-use credentials for Admin:admin@factory.com, Manager:manager@factory.com ,Employee: employee@factory.com , password:123456(for all).
 ---
+use credentials for Admin:admin@factory.com, Manager:manager@factory.com ,Employee: employee@factory.com , password:123456(for all).
 # Employee & Work Order Management
 
 This repository contains a full-stack Factory ERP application for managing Employee and work orders. It includes a Node.js/Express backend with MongoDB and a Vite + React frontend. The system supports three user roles with different permissions: Admin, Manager, and Employee.
