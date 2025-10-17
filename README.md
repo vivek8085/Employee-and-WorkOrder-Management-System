@@ -1,8 +1,8 @@
 # JIEF Internship project
 ---
-# Factory ERP — Production & Work Order Management
+# Employee & Work Order Management
 
-This repository contains a full-stack Factory ERP application for managing production and work orders. It includes a Node.js/Express backend with MongoDB and a Vite + React frontend. The system supports three user roles with different permissions: Admin, Manager, and Employee.
+This repository contains a full-stack Factory ERP application for managing Employee and work orders. It includes a Node.js/Express backend with MongoDB and a Vite + React frontend. The system supports three user roles with different permissions: Admin, Manager, and Employee.
 
 ## Table of Contents
 
@@ -25,7 +25,7 @@ This repository contains a full-stack Factory ERP application for managing produ
 
 ## About
 
-The Factory ERP project is designed to help manufacturing teams create and manage work orders, assign managers and employees, track status and materials, and provide role-based access controls. It uses JWT for auth, MongoDB for persistence, and Socket.io for real-time updates.
+This ERP project is designed to help manufacturing teams create and manage work orders, assign managers and employees, track status and materials, and provide role-based access controls. It uses JWT for auth, MongoDB for persistence, and Socket.io for real-time updates.
 
 ## Key Features
 
